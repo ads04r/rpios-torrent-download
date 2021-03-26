@@ -6,6 +6,8 @@ handy, while at the same time helping to seed the latest version for others.
 This script is written specifically for Deluge users, but other torrent
 clients may work too.
 
+![Deluge seeding a lot of Raspberry Pi OS / Raspbian images](deluge-rpios.png)
+
 Run check.py regularly from cron to check the Raspberry Pi website for new
 OS images, and automatically add them to your Deluge download queue.
 
