@@ -15,7 +15,8 @@ OS images, and automatically add them to your Deluge download queue.
   .torrent files that get dropped in here get automatically added
   to the download queue.
 * Please seed for as long as possible. If you don't plan on seeding, just
-  use the website to download your OS images, it's easier.
+  use [the website](https://www.raspberrypi.org/software/operating-systems/)
+  to download your OS images, it's easier.
 
 To configure, modify the variables in check.py accordingly:
 
